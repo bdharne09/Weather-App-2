@@ -229,7 +229,12 @@ section {
     padding: 0;
     height: auto;
   }
-
+  .container {
+    margin-top: 0px;
+  }
+  :root {
+    margin-top: 0px;
+  }
   .weather {
     overflow: visible;
     height: auto;
