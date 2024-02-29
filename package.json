@@ -1,6 +1,5 @@
 {
   "name": "weather-app2",
-  "homepage": "https://bdharne09.github.io/Weather-App2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
